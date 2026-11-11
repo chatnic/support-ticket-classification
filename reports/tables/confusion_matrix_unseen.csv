@@ -1,0 +1,9 @@
+,card_issue,fraud_dispute,login_access,transfer_payment,account_fees,loan_inquiry,technical_bug,account_closure
+card_issue,285,10,2,6,26,6,14,9
+fraud_dispute,5,165,5,6,44,5,0,10
+login_access,84,28,47,12,12,51,29,5
+transfer_payment,8,6,6,232,2,27,8,2
+account_fees,49,3,1,7,128,4,5,2
+loan_inquiry,4,3,2,0,5,126,1,2
+technical_bug,3,5,3,24,0,6,120,4
+account_closure,3,1,2,11,2,1,1,69

@@ -1,0 +1,41 @@
+ticket_id,text,category,predicted,confidence
+T506353,"Good morning, How do I change the phone number used for login codes. Also, is there a hardship program for my personal loan, i lost my job I'm traveling right now. Appreciate it.",login_access,loan_inquiry,0.992265229517062
+T508200,"The magnetic strip on my card is worn out. Also, i never authorized the 83 dollars payment to amazon The chat bot didn't help.",card_issue,fraud_dispute,0.986335144185917
+T503210,"y one-time passcode never shows up. Also, requesting an expedited replacement for my visa card This is really frustrating.",login_access,card_issue,0.9849139560529679
+T508553,"Hey I was charged interest on my credit card but I paid in full. Also, card expired and i didn't get a new one This happened before too. Thanks.",account_fees,card_issue,0.9808296460044812
+T508852,"To whom it may concern, The magnetic strip on my visa card is worn out. Also, i want to dispute a charge from an app store, they never delivered my order I'm traveling right now. Thanks.",card_issue,fraud_dispute,0.9807364539811392
+T506620,"what's the minimum credit score for a mortgagge. Also, i need a replacement virtual card, mine is damaged and tthe cchip doesn't wor kThis happened before too. Appreciate it.",loan_inquiry,card_issue,0.9797571447079556
+T507660,"Hey My one-time passcode never shows up. Also, the app drains my battery and runs really slow",login_access,technical_bug,0.9769741118631392
+T500360,"Hi, The website is extremely slow and times out. Also, need to report a fraudulent transaction asap I've been a customer for 10 years. ASAP please.",loan_inquiry,fraud_dispute,0.9738167376791039
+T506863,"Please investigate a suspicious transaction from a hotel. lAso, i sent a direct deposit to the wrong account, can it be reversed ASAP please.",fraud_dispute,transfer_payment,0.9734046247724331
+T505908,"Reporting identity theft, someone opened an account in my name. Also, keep getting logged out of the app every few minutes I've been a customer for 10 years. Thanks.",fraud_dispute,login_access,0.9730863909714998
+T500224,"Good morning, Reporting identity theft, someone opened an account in my name. Alo, is there a way to freeze my card temporarily I've been a customer for 10 years. Please help.",fraud_dispute,card_issue,0.9725991876114753
+T500111,"hi there. weird small chargees of $1 keep appearing on my statement. also, there's a monthly maintneance fee of 57 dollars on my statemet i don't understand i've been a cusomr for 10 years. appreciatee it.",fraud_dispute,account_fees,0.9721269760868274
+T500444,"Hi there. Weird small charges of $1 keep appearing on my statement. Also, got hit with a atm fee again, this is the third month This happened before too. Thank you!",fraud_dispute,account_fees,0.9704862402571788
+T505865,"Hey My one-time passcode never shows up. Also, need to report a fraudulent transaction asap I'm traveling right now.",login_access,fraud_dispute,0.9686578321349373
+T500397,"Good morning, Reporting identity theft, someone opened an account in my name. Also, i need a replacement credit card, mine is damaged and the chip doesn't work Please help.",fraud_dispute,card_issue,0.9657664892088949
+T510597,"Hello, My one-time passcode never shows up. Also, dark mode makes the text unreadable in the app Please help.",login_access,technical_bug,0.9625330255172243
+T509223,"To whom it may concern, I was charged interest on my credit card but  paid in full. Also, i want to dispute a charge from amazon, they never delivered my order Thanks in advance.",account_fees,fraud_dispute,0.9544185970498795
+T506810,"to whm it may concern, the magnetic strip on my credit card is worn out. also, your site gives me a 404 when i click on statements i've been a ucstomer for 10 years. appreiate it.",card_issue,technical_bug,0.9538334658199633
+T509859,"Hello, Can I set up recurring payments to my landlord. Also, i forgot my password and the reset email never comes I'm traveling right now. Appreciate it.",transfer_payment,login_access,0.953176906714836
+T508794,"Hello, Can I set up recurring payments to my landlord. Also, i lost my card last night, can you lock it and send a new one",transfer_payment,card_issue,0.9502819362126445
+T511236,"Hi, How do I change the phone number used for login codes. Also, how do i avoid the foreign transaction fee going forward This happened before too.",login_access,account_fees,0.9470460808868799
+T503499,"The website is extremely slow and times out. Also, what term lengths do you offer for a student loan refinance Thanks in advance.",technical_bug,loan_inquiry,0.9467210611886788
+T511336,"To whom it may concern, Please investigate a suspicious transaction from Walmart. Also, what is the current interest rate on a auto loan Thank you!",fraud_dispute,loan_inquiry,0.9464355022336111
+T510919,"Hi, why does my card ending in 9346 get rejected at Target. Also, the direct deposit was deducted from my account but the recipient never got it This happened before too. ASAP please.",card_issue,transfer_payment,0.9463871578196812
+T500301,"Hi there. The magnetic strip on my visa card is worn out. Also, there is a charge of $684.67 from target that i did not make I've been a customer for 10 years.",card_issue,fraud_dispute,0.9391138220507756
+T501011,"Good morning, Can I set up recurring payments to my landlord. Also, it says my username doesn't exist but i've had an account for years I need this resolved today.",transfer_payment,login_access,0.9364173656593225
+T510924,"to whom it may concern, reporting identity theft, someone opened an account in my name. also, what term lengths do you offer for a auto loan this is really frustrating.",fraud_dispute,loan_inquiry,0.9323275222554634
+T504364,"o whom it ay concern, Can you waive the late ee, I've been a custmer for years. Also, the bill payment was deducted from my account but the recipient nveer got it Thanks.",account_fees,transfer_payment,0.9302866632614304
+T503416,"Can I set up recurring payments to my landlord. Also, i can't download my statements as pdf, the button does nothing",transfer_payment,technical_bug,0.9285643347266735
+T504452,"can i set up recurring payments to my landlord. also, i can't download my statements as pdf, the button does nothing i've bee na customer fro 10 years.",transfer_payment,technical_bug,0.9258001136152971
+T503662,"Good morning, The website is extremely slow and times out. Also, is there a hardship program for my student loan refinance, i lost my job The chat bot didn't help. Thank you!",technical_bug,loan_inquiry,0.9257061835891341
+T503958,"why does my visa card get rejected at a hotel. also, please reverse the penalty charged when my balance dipped below the minimum please help.",card_issue,account_fees,0.9244165755566014
+T510284,"Reporting identity theft, someone opened an account in my name. Also, can't access my account since i changed my email address I'm traveling right now. Please help.",fraud_dispute,login_access,0.9229220699858077
+T501478,"to whom it may concern, how do i change the phone number used for login codes. also, i want to stop a payment i just sent the chat bot didn't help. asap please.",login_access,transfer_payment,0.9108305934718028
+T507705,"Can I set up recurring payments to my landlord. Also, getting an error code 500 when i try to view statements",transfer_payment,technical_bug,0.9091950641093076
+T501664,"Hi, The website is extremely slow and times out. Also, a zelle payment from my other bank was returned I need this resolved today.",technical_bug,transfer_payment,0.9081997943339928
+T503972,"can i set up recurring payments to my landlord. also, please explain the atm fee on my account i'm traveling right now.",transfer_payment,account_fees,0.9071836435271601
+T506124,"why does my debit card get rejected at an online store. also, push notifications stopped working after the last update",card_issue,technical_bug,0.9061313424158819
+T504903,"Good morning, The website is extremely slow and times out. Also, my account was hacked and money was taken out Thanks.",technical_bug,fraud_dispute,0.9044082137426672
+T500639,"hi, something is broken on the website, pages won't load. also, money i moved to savings yesterday hasn't shown up this is really frustrating.",technical_bug,transfer_payment,0.9015774105387641

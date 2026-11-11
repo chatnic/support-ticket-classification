@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+data/raw/
+models/
+.DS_Store
+data/llm_cache.jsonl

@@ -1,0 +1,80 @@
+{
+  "split_sizes": {
+    "train": 8056,
+    "test_seen": 2014,
+    "test_unseen": 1754
+  },
+  "heldout_templates": [
+    "card_issue#3",
+    "card_issue#1",
+    "card_issue#4",
+    "fraud_dispute#1",
+    "fraud_dispute#3",
+    "fraud_dispute#5",
+    "login_access#17",
+    "login_access#8",
+    "login_access#4",
+    "transfer_payment#17",
+    "transfer_payment#4",
+    "transfer_payment#10",
+    "account_fees#17",
+    "account_fees#15",
+    "account_fees#11",
+    "loan_inquiry#6",
+    "loan_inquiry#19",
+    "loan_inquiry#15",
+    "technical_bug#16",
+    "technical_bug#1",
+    "technical_bug#12",
+    "account_closure#9",
+    "account_closure#6",
+    "account_closure#1"
+  ],
+  "results": {
+    "keyword_rules": {
+      "seen": {
+        "accuracy": 0.6643495531281033,
+        "macro_f1": 0.6810187424295756
+      },
+      "unseen": {
+        "accuracy": 0.6083238312428735,
+        "macro_f1": 0.5887430693321436
+      }
+    },
+    "tfidf_words": {
+      "seen": {
+        "accuracy": 0.9438927507447865,
+        "macro_f1": 0.9392135329190137
+      },
+      "unseen": {
+        "accuracy": 0.6180159635119726,
+        "macro_f1": 0.5954028412302115
+      }
+    },
+    "tfidf_words_chars": {
+      "seen": {
+        "accuracy": 0.9468718967229395,
+        "macro_f1": 0.9431531125238194
+      },
+      "unseen": {
+        "accuracy": 0.6681870011402509,
+        "macro_f1": 0.6508582573722106
+      }
+    }
+  },
+  "selected_model": "tfidf_words_chars",
+  "routing_threshold": 0.93,
+  "routing_seen": {
+    "automation_rate": 0.7969215491559086,
+    "auto_routed_accuracy": 0.9700934579439252
+  },
+  "routing_unseen_same_threshold": {
+    "automation_rate": 0.13169897377423034,
+    "auto_routed_accuracy": 0.8614718614718615
+  },
+  "urgent_ticket_recall": {
+    "seen": 0.9667221297836939,
+    "unseen": 0.4822834645669291
+  },
+  "seen_accuracy_vs_intended_label": 0.9746772591857001
+}

@@ -1,0 +1,7 @@
+model,split,accuracy,macro_f1
+keyword_rules,seen,0.6643,0.681
+keyword_rules,unseen,0.6083,0.5887
+tfidf_words,seen,0.9439,0.9392
+tfidf_words,unseen,0.618,0.5954
+tfidf_words_chars,seen,0.9469,0.9432
+tfidf_words_chars,unseen,0.6682,0.6509

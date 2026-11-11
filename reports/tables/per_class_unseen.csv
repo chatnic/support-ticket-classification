@@ -1,0 +1,12 @@
+,precision,recall,f1-score,support
+account_closure,0.67,0.767,0.715,90.0
+account_fees,0.584,0.643,0.612,199.0
+card_issue,0.646,0.796,0.713,358.0
+fraud_dispute,0.747,0.688,0.716,240.0
+loan_inquiry,0.558,0.881,0.683,143.0
+login_access,0.691,0.175,0.28,268.0
+technical_bug,0.674,0.727,0.7,165.0
+transfer_payment,0.779,0.797,0.788,291.0
+accuracy,0.668,0.668,0.668,0.668
+macro avg,0.669,0.684,0.651,1754.0
+weighted avg,0.678,0.668,0.645,1754.0
